@@ -105,7 +105,7 @@ public class TelaLogin extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        if(Usuario.getText().equals("joaoruanlucas")&&Senha.getText().equals("202220184842022201789920222018018")){
+        if(Usuario.getText().equals("joaoruanlucaswarley")&&Senha.getText().equals("202220184842022201789920222018018")){
             TelaMenu tela = new TelaMenu();       
             tela.setLocationRelativeTo(null);
             tela.setResizable(false);
